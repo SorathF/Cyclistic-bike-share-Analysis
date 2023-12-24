@@ -20,7 +20,7 @@ COPY cyclistic_data
 FROM 'E: / 202101.csv' 
 DELIMITER ‘,’
 CSV HEADER;
-** Changed the name of files in the third line to import data of remaining months.
+---  Changed the name of files in the third line to import data of remaining months.
 --- Step 3: Verify the imported data
 Select
 *
