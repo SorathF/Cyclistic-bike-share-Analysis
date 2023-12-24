@@ -21,7 +21,7 @@ Cyclistic Marketing Analytics Team
 
 Cyclistic Executive Team
 ## Prepare
-The annual data for the year 2021 is collected from [here](https://divvy-tripdata.s3.amazonaws.com/index.html). It has been made available by Motivate International Inc. under this [license](https://www.divvybikes.com/data-license-agreement). The dataset contains 12 months of data in CSV files. Each file includes thirteen columns: ride_id, rideable_type, started_at, ended_at, start_station_name, start_station_id, end_station_name, end_station_id, start_lat, start_lng, end_lat, end_lng, member_casual. I used SQL queries located [here](https://github.com/SorathF/Cyclistic-bike-share-Analysis/blob/d6f00f91f4f64a8011a90f9aafc4dc23a8f46a80/Data%20Preparation.sql). The following steps are performed to prepare the data.
+The annual data for the year 2021 is collected from [here](https://divvy-tripdata.s3.amazonaws.com/index.html). It has been made available by Motivate International Inc. under this [license](https://www.divvybikes.com/data-license-agreement). The dataset contains 12 months of data in CSV files. Each file includes thirteen columns: ride_id, rideable_type, started_at, ended_at, start_station_name, start_station_id, end_station_name, end_station_id, start_lat, start_lng, end_lat, end_lng, member_casual. I used SQL queries located [here](https://github.com/SorathF/Cyclistic-bike-share-Analysis/blob/2e8d137b55dbfe96103d7d6d0cbebd02c1be5e33/Data%20Preparation.sql). The following steps are performed to prepare the data.
 
 •	Created a table with thirteen columns.
 
