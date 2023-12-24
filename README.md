@@ -30,6 +30,7 @@ The annual data for the year 2021 is collected from [here](https://divvy-tripdat
 •	Verified the imported data to ensure it is properly formatted.
 ## Process
 This phase entails cleaning and transforming the data. 
+
 [SQL query](https://github.com/SorathF/Cyclistic-bike-share-Analysis/blob/d6f00f91f4f64a8011a90f9aafc4dc23a8f46a80/Data%20Cleaning.sql)
 ### Data Cleaning
 •	Checked for duplicate rows (none found)
@@ -58,7 +59,7 @@ Added columns: trip_duration, day of week.
 Renamed columns: rideable_type to Bike_Types, member_casual to Membership_Type.
 
 ### Data Validation
-•	Checked for any outliers exist in Trip_Duration column. 
+•	Checked for any outliers exist in Trip_Duration column ( none found). 
 ## Analysis
 As the data is cleaned, it's time to analyze it. The main goal of the analysis is to understand how casual and members use bikes differently. I’ve analyzed different metrics to understand the usage patterns of customers. All SQL codes for analysis are located [here](https://github.com/SorathF/Cyclistic-bike-share-Analysis/blob/d6f00f91f4f64a8011a90f9aafc4dc23a8f46a80/Data%20Analysis.sql). The insights derived from the analysis are as follows:
 1.	The total number of rides was 4,534,203. Casual rides account for 44.77%, while annual rides account for 55.23%. 
@@ -90,4 +91,4 @@ Based on the analysis, here are the four recommendations:
 
 •	Host cycling events in summer and promote them on social media, using relevant hashtags. Share visually appealing content on social media. Collaborate with a cafe to offer refreshments.
 
-•	Highlight case studies of customers using rides in their daily lives.
+•	Highlight case studies of customers using rides in their daily lives on social media.
