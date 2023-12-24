@@ -1,4 +1,4 @@
-Step 1: Create a table
+--- Step 1: Create a table
 CREATE TABLE cyclistic_data 
 (
     ride_id VARCHAR(255),
@@ -15,13 +15,13 @@ CREATE TABLE cyclistic_data
     end_lng NUMERIC,
     member_casual VARCHAR(255)
 );
-Step 2: Import CSV files
+--- Step 2: Import CSV files
 COPY cyclistic_data 
 FROM 'E: / 202101.csv' 
 DELIMITER ‘,’
 CSV HEADER;
 ** Changed the name of files in the third line to import data of remaining months.
-Step 3: Verify the imported data
+--- Step 3: Verify the imported data
 Select
 *
 From Cyclistic_data;
