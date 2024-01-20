@@ -59,7 +59,7 @@ Added columns: trip_duration, day of week.
 Renamed columns: rideable_type to Bike_Types, member_casual to Membership_Type.
 
 ### Data Validation
-•	Checked for any outliers exist in Trip_Duration column ( none found). 
+•	Checked for any outliers in the Trip_Duration column ( none found). 
 ## Analysis
 As the data is cleaned, it's time to analyze it. The main goal of the analysis is to understand how casual and members use bikes differently. I’ve analyzed different metrics to understand the usage patterns of customers. All SQL codes for analysis are located [here](https://github.com/SorathF/Cyclistic-bike-share-Analysis/blob/d6f00f91f4f64a8011a90f9aafc4dc23a8f46a80/Data%20Analysis.sql). The insights derived from the analysis are as follows:
 1.	The total number of rides was 4,534,203. Casual rides account for 44.77%, while annual rides account for 55.23%. 
@@ -70,18 +70,17 @@ As the data is cleaned, it's time to analyze it. The main goal of the analysis i
 ## Share
 Finally, Tableau was used to visualize the data. An interactive dashboard was created to present the key findings of the analysis. You can find visualization [here](https://public.tableau.com/views/Work_17031486030230/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link).
 ### Total Rides
-![Total Rides.png](https://github.com/SorathF/Cyclistic-bike-share-Analysis/blob/main/Total%20Rides.png)
-
+![Total Rides.png](https://github.com/SorathF/Cyclistic-bike-share-Analysis/blob/b65c03a66048579fc725a43d8807f4089be43535/Total%20Rides.png)
 ### Hourly Trends
-![Hourly Trends](https://github.com/SorathF/Cyclistic-bike-share-Analysis/blob/fe2144e03df9e570fa712b60e5f52f2110a22234/Hourly%20Trends.png)
+![Hourly Trends](https://github.com/SorathF/Cyclistic-bike-share-Analysis/blob/9ca00109dfe5547620b325ae57c91affc8368a2a/Hourly%20Trends.png)
 ### Daily Trends
-![Daily Trends](https://github.com/SorathF/Cyclistic-bike-share-Analysis/blob/main/Daily%20Trends.png)
+![Daily Trends](https://github.com/SorathF/Cyclistic-bike-share-Analysis/blob/518685b68c3e8801ca7d67cff12f4d7b88830597/Daily%20Trends.png)
 ### Popular Bike Types
-![Popular Bike Types](https://github.com/SorathF/Cyclistic-bike-share-Analysis/blob/fe2144e03df9e570fa712b60e5f52f2110a22234/Popular%20Rides.png)
+![Popular Bike Types](https://github.com/SorathF/Cyclistic-bike-share-Analysis/blob/b65c03a66048579fc725a43d8807f4089be43535/Popular%20Rides.png)
 ### Monthly Trends
-![Monthly Trends](https://github.com/SorathF/Cyclistic-bike-share-Analysis/blob/main/Monthly%20trends.png)
+![Monthly Trends](https://github.com/SorathF/Cyclistic-bike-share-Analysis/blob/518685b68c3e8801ca7d67cff12f4d7b88830597/Monthly%20trends.png)
 ### Seasonal Trends 
-![Seasonal Trends](https://github.com/SorathF/Cyclistic-bike-share-Analysis/blob/c0ef500cf3c156be5f8d54f30ad511ee5f9b96c1/Seasonal%20pattern.png)
+![Seasonal Trends](https://github.com/SorathF/Cyclistic-bike-share-Analysis/blob/b65c03a66048579fc725a43d8807f4089be43535/Seasonal%20pattern.png)
 ## Act
 Based on the analysis, here are four recommendations:
 
