@@ -82,11 +82,11 @@ Finally, Tableau was used to visualize the data. An interactive dashboard was cr
 ### Seasonal Trends 
 ![Seasonal Trends](https://github.com/SorathF/Cyclistic-bike-share-Analysis/blob/b65c03a66048579fc725a43d8807f4089be43535/Seasonal%20pattern.png)
 ## Act
-Based on the analysis, here are four recommendations:
+You can view the presentation [here](https://youtu.be/P68_d4T0B30). Based on the analysis, here are four recommendations:
 
-•	Organize social media marketing campaigns highlighting the benefits of riding on weekdays. Include benefits such as hassle-free commutes to work, less fuel consumption, and decreased heart disease risk.
+•	Organize social media campaigns highlighting the benefits of riding on weekdays. Include benefits such as hassle-free commutes to work, less fuel consumption, and decreased heart disease risk.
 
-•	Introduce member loyalty program in the form of points, discounts and rewards. 
+•	Introduce member loyalty programs in the form of points, discounts, and rewards. 
 
 •	Host cycling events in summer and promote them on social media, using relevant hashtags. Share visually appealing content on social media. Collaborate with a cafe to offer refreshments.
 
